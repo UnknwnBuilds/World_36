@@ -6,4 +6,5 @@ Mods: All Development, can be safely removed
 Note: This map is an interesting one. It is somehow good and bad at the same time. 
 
 Image: https://imgur.com/a/MPnR03w
+
 TimeLapse: 
