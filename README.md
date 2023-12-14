@@ -7,4 +7,4 @@ Note: This map is an interesting one. It is somehow good and bad at the same tim
 
 Image: https://imgur.com/a/MPnR03w
 
-TimeLapse: 
+TimeLapse: https://youtu.be/rIQvOOzPjG0
